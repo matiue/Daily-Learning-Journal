@@ -16,3 +16,7 @@ I aim to review what I've learned over the past three years and explore new conc
 - Frontend  
 - Product Design  
 - Marketing  
+___
+
+## Lets start with Backend and marketing
+### Day 1 (12/22/2024)
