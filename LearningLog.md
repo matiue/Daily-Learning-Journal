@@ -15,8 +15,14 @@ I aim to review what I've learned over the past three years and explore new conc
 - Mobile Development (Flutter)  
 - Frontend  
 - Product Design  
-- Marketing  
 ___
 
-## Lets start with Backend and marketing
-### Day 1 (12/22/2024)
+## Lets start with Backend 
+###Backend:
+- [ ] FastAPI
+- [ ] 
+
+
+
+___
+### Day 1 (12/23/2024)
